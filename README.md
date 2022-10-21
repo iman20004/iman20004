@@ -4,7 +4,8 @@ Hi 👋 My name is Iman Ali
 Software Development Engineer
 -----------------------------
 
-Soon to graduate from Stony Brook University with a BS in Computer Science (May 2023). I am a very curious and challenge driven individual who loves to learn new things and build software. As of now, I am proficient in Java, Javascript, HTML, CSS, Python and Swift. I have experience working with multiple different libraries/frameworks such as React, Angular, Node, MongoDb, Nginx and iOS parse. I am also familiar with Cloud Computing including setting up servers and deploying web pages. I have been able to maintain a successful academic career with a spot in the SBU Dean’s List throughout and awards like the Academic Achievement Award, while working on research projects under prominent professors.
+Soon to graduate from Stony Brook University with a BS in Computer Science (May 2023). I am a very curious and challenge driven individual who loves to learn new things and build software. 
+As of now, I am proficient in Java, Javascript, HTML, CSS, Python and Swift. I have experience working with multiple different libraries/frameworks such as React, Angular, Node, MongoDb, Nginx and iOS parse. Additionally, my portfolio includes projects which implement third party APIs and comprises both web and mobile applications. My numerous personal passion projects show my comfort working independently but I have also been commended on my teamworks skills. I have been able to maintain a successful academic career with a spot in the SBU Dean’s List throughout and awards like the Academic Achievement Award, while working on research projects under prominent professors.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [imanali4@gmail.com](mailto:imanali4@gmail.com)
